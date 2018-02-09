@@ -1,0 +1,61 @@
+ body
+ {
+	
+	
+}
+.header {
+    
+    height: 350px;
+    width: 1300px;
+     background-color:pink;
+     padding-right: 30px;
+    
+}
+.header h3 {
+    
+     margin-left: 60px;
+    margin-top:130px;
+    
+   
+} 
+
+ 
+ 
+  .navbar-custom
+{
+    background-color:blue;
+    color:#fff;
+    border-radius:0px;
+    padding:4px;
+}
+
+ 
+    .navbar-custom .navbar-nav>li>a
+{
+    color:#fff;
+    font-size:19px;
+    margin-left:13px;
+}
+
+.navbar-custom .navbar-nav>.active>a
+{
+    color:#fff;
+    background-color:#82c434;
+}
+.navbar-custom .navbar-nav>li>a:hover
+{
+    background-color: #82c434;
+}
+.navbar-custom .navbar-brand
+{
+    color: #fff;
+    font-size: 27px;
+    margin-left: 15px;
+}
+.navbar-custom .navbar-brand:hover
+{
+    color: #fff;
+    font-size: 27px;
+}
+
+ 
