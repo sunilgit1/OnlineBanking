@@ -34,9 +34,9 @@
 							</a></li>
 					<li class="${customerLoadCusActive}"><a href="${loadCusURL}">Registered Customer
 							</a></li>
-					<li class="${customerListActive}"><a href="${loadURL}">Customer Details
+					<li class="${customerListActive}"><a href="">Customer Details
 							</a></li>
-					<li class="${customerSearchActive}"><a href="${searchURL}">LogOut
+					<li class="${customerSearchActive}"><a href="">LogOut
 					</a></li>
 					
 					</ul>

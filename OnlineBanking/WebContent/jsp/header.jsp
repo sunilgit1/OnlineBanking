@@ -14,13 +14,15 @@
     
      <spring:url value= "resources/css/bootstrap.min.css" var="bootstrapURL"/>
     <spring:url value= "resources/css/myapps.css" var="myappsURL"/>
+      <spring:url value= "resources/jscripts/validation.js" var="validateURL"/> 
     
     <link href="${bootstrapURL}" rel="stylesheet">
      <link href="${myappsURL}" rel="stylesheet">
+      <link href="${validateURL}" rel="javascript"">
      
-     <!-- Bootstrap THEME CSS -->
+     <!-- Bootstrap THEME CSS
    <spring:url value= "resources/css/btheme.css" var="themeURL"/>
     
-    <link href="${themeUR}" rel="stylesheet">
+    <link href="${themeUR}" rel="stylesheet"> -->
 
   </head>
